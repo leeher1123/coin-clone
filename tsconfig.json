@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "types": ["react/next", "react-dom/next"],
+    "jsx": "react",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strict": true,
+    "useUnknownInCatchVariables": true,
+    "strictFunctionTypes": true
+  }
+}
